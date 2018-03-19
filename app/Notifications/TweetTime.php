@@ -32,6 +32,6 @@ class TweetTime extends Notification
 
     public function toTwitter($notifiable)
     {
-        return new TwitterStatusUpdate(Carbon::now()->toTimeString());
+        return new TwitterStatusUpdate(Carbon::now()->format('H:i'));
     }
 }
