@@ -34,7 +34,7 @@ return [
         'key' => env('STRIPE_KEY'),
         'secret' => env('STRIPE_SECRET'),
     ],
-    
+
     'twitter' => [
         'consumer_key'    => getenv('TWITTER_CONSUMER_KEY'),
         'consumer_secret' => getenv('TWITTER_CONSUMER_SECRET'),
