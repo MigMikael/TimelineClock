@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>TimelineClock</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -83,7 +83,8 @@
                 </div>
 
                 <div class="links">
-                    <p>สร้างขึ้นเพื่อเหล่าผู้ที่หลงในทามไลน์นานจนลืมเวลา!</p>
+                    <p>For the people lost in twitter timeline.</p>
+                    <p>สร้างขึ้นเพื่อเหล่าผู้ที่หลงในทามไลน์จนลืมเวลา!</p>
                     <a href="https://twitter.com/TimelineClock">@TimelineClock</a>
                 </div>
             </div>
